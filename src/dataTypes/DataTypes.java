@@ -3,7 +3,7 @@ package dataTypes;
 public class DataTypes {
 
     //Exista primitive Data Types: byte, short, int, long, float, double, boolean si char
-    //Exista si non-primitive Data Types: String, Array si Classes
+    //Exista si non-primitive Data Types: StringExamples, Array si Classes
     //Deocamdata, o sa ne concentram pe urmatoarele:
 
     int numar = 0;
