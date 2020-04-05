@@ -10,7 +10,7 @@ public class Main {
         String a = "27";
         String b = "22.5";
         String c = "Suma Stringurilor este:";
-        System.out.println("");
+        System.out.println();
 
     }
 }
