@@ -1,4 +1,5 @@
 import dataTypes.IntExamples;
+import dataTypes.Lists;
 import dataTypes.StringExamples;
 
 public class Main {
@@ -10,16 +11,16 @@ public class Main {
 //        2. Declara un string si transforma-l in int
 
 //        3. Aduna StringExamples a cu StringExamples b si printeaza-l impreuna cu StringExamples C
-        String a = "27";
-        String b = "22.5";
-        String c = "Suma Stringurilor este:";
+//        String a = "27";
+//        String b = "22.5";
+//        String c = "Suma Stringurilor este:";
 //        System.out.println("123");
 
 //        StringExamples.exempleDeString();
 //        IntExamples.exempleDeInt();
 
         //4. Afla cate cuvinte sunt in propozitia de jos si afla cat de lung e fiecare cuvant (fara diacritice)
-        String propozitie = "The sixth generation CBR900RR was introduced in 2002, in North America and Japan known as the CBR954RR.";
+//        String propozitie = "The sixth generation CBR900RR was introduced in 2002, in North America and Japan known as the CBR954RR.";
 
         //5. Afla aria patratului daca el are latura de 5
 
@@ -29,7 +30,15 @@ public class Main {
 
         //8. Afla aria unui trapez cu laturile de 20, baza mare de 50 si baza mica de 30
 
+//        Lists.exempleDeLists();
 
+        //9. Fa un map cu 5 producatori de motociclete care sa contina 5 producatori cu 10 modele fiecare, care sa contina si cilindree si tipul motocicletei (naked, touring, etc)
+
+        //10. Creeaza O lista care sa contina 3 alte liste care sa contina circuite din America, Europa si Asia
+
+        //11. Creeaza doua liste, una cu modele 2020 disponibile in romania de motoare Honda si Kawasaki si afla care producator are mai multe modele disponibile
+
+        //12. Creeaza un Array cu toate modele de Honda 2020 si afla cate dintre ele contin litera a in nume
 
     }
 }
