@@ -33,12 +33,14 @@ public class Main {
 //        Lists.exempleDeLists();
 
         //9. Fa un map cu 5 producatori de motociclete care sa contina 5 producatori cu 10 modele fiecare, care sa contina si cilindree si tipul motocicletei (naked, touring, etc)
+        // Marca x - modelul y - cu cilindreea si tipul motocicletei
 
-        //10. Creeaza O lista care sa contina 3 alte liste care sa contina circuite din America, Europa si Asia
+        //10. Creeaza O lista care sa contina 3 alte liste care sa contina circuite si lungimea lor din America, Europa si Asia si sa fie printate in ordinea lungimii
 
-        //11. Creeaza doua liste, una cu modele 2020 disponibile in romania de motoare Honda si Kawasaki si afla care producator are mai multe modele disponibile
+        //11. Creeaza doua liste, una cu modele 2020 disponibile in romania de motoare Honda si Kawasaki si afla care producator are mai multe modele disponibile, cand le printezi, sa le printezi in ordine crescatoare
 
         //12. Creeaza un Array cu toate modele de Honda 2020 si afla cate dintre ele contin litera a in nume
+        // + daca contine CB sa printezi o chestie, daca contine CBR sa printezi alta chestie, si daca nu contine nici CB nici CBR sa printezi o a treia chestie
 
     }
 }
